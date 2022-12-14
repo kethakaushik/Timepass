@@ -1,1 +1,1 @@
-# Timepass
+simple git repository
